@@ -1,0 +1,30 @@
+body {
+    background-color:darkcyan;
+}
+body h1 {
+    background-color: darkcyan;
+    color:chartreuse;
+}
+body h2 {
+    background-color: darkcyan;
+    color:chartreuse;
+}
+body h3 {
+    background-color: darkcyan;
+    color:chartreuse;
+}
+body .card-body {
+    background-color: darkcyan;
+    color:chartreuse;
+}
+body .card-header {
+    background-color:darkcyan;
+    color:darkcyan;
+}
+body .team-heading {
+    background-color:darkcyan;
+}
+body .list-group li {
+    background-color:cyan;
+    color:darkcyan;
+}
